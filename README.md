@@ -35,7 +35,7 @@ The system consists of three main categories:
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/sms-summarizer.git
+git clone https://github.com/rupramko/sms-summarizer.git
 cd sms-summarizer
 ```
 
@@ -165,9 +165,12 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📧 Contact
 
-Your Name - mamata.nandennavar@nokia.com, swathi.prakash@nokia.com, swetha.kerahalli@nokia.com, nupur.rupram_kohadkar@nokia.com
+Mamata Nandennavar: mamata.nandennavar@nokia.com
+Swaathi Prakash: swathi.prakash@nokia.com
+Swetha Kerahalli: swetha.kerahalli@nokia.com
+Nupur Rupram Kohadkar: nupur.rupram_kohadkar@nokia.com
 
-Project Link: [https://github.com/yourusername/sms-summarizer](https://github.com/yourusername/sms-summarizer)
+Project Link: [https://github.com/rupramko/sms-summarizer](https://github.com/rupramko/sms-summarizer)
 
 ## 🙏 Acknowledgments
 
