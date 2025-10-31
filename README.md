@@ -165,7 +165,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📧 Contact
 
-Your Name - your.email@example.com
+Your Name - mamata.nandennavar@nokia.com, swathi.prakash@nokia.com, swetha.kerahalli@nokia.com, nupur.rupram_kohadkar@nokia.com
 
 Project Link: [https://github.com/yourusername/sms-summarizer](https://github.com/yourusername/sms-summarizer)
 
