@@ -166,7 +166,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 📧 Contact
 
 Mamata Nandennavar: mamata.nandennavar@nokia.com; 
-Swaathi Prakash: swathi.prakash@nokia.com; 
+Swathi Prakash: swathi.prakash@nokia.com; 
 Swetha Kerahalli: swetha.kerahalli@nokia.com; 
 Nupur Rupram Kohadkar: nupur.rupram_kohadkar@nokia.com
 
